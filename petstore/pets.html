@@ -20,6 +20,15 @@
   <main>
     <section>
       <h2>Adopt a pet</h2>
+      <div style="display: flex; gap: 24px; justify-content: center">
+          Type:
+          <div style="display: flex;">
+              <div><input type="checkbox" id="type-dogs" name="pet-type" value="Dog" checked/> Dogs</div>
+              <div><input type="checkbox" id="type-cats" name="pet-type" value="Cat" checked/> Cats</div>
+              <div><input type="checkbox" id="type-capybaras" name="pet-type" value="Capybara" checked/> Capybaras</div>
+              <div><input type="checkbox" id="type-birds" name="pet-type" value="Bird" checked/> Birds</div>
+          </div>
+        </div>
       <div id="pet-list" class="pet-list">
         <!-- Pets will load here -->
       </div>
@@ -45,6 +54,7 @@
         ></iframe>
       </div>
     </footer>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script src="loadpets.js"></script>
 </body>
 
