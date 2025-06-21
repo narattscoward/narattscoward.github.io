@@ -1,5 +1,5 @@
 const pets = [
-  { name: "Buddy", type: "Dog", age: 3, img: "/img/dogs/dog01.jpg" },
+  { name: "Buddy", type: "Dog", age: 3, img: "img/dogs/dog01.jpg" },
   { name: "Sunshine", type: "Dog", age: 3, img: "img/dogs/dog02.jpg" },
   { name: "Whiskers", type: "Cat", age: 2, img: "img/cats/cat01.jpg" },
   { name: "Mittens", type: "Cat", age: 2, img: "img/cats/cat02.jpg" },
