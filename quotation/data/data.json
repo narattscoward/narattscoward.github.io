@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Wireless Mouse",
+    "quantity": 1,
+    "description": "Ergonomic wireless mouse with USB receiver",
+    "unitPrice": 900.00,
+    "amount": 1350.00
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "quantity": 1,
+    "description": "Backlit mechanical keyboard with blue switches",
+    "unitPrice": 450.00,
+    "amount": 450.00
+  },
+  {
+    "name": "Software Installation",
+    "quantity": 1,
+    "description": "Operating system and essential software installation service",
+    "unitPrice": 100.00,
+    "amount": 100.00
+  },
+  {
+    "name": "Network Setup",
+    "quantity": 1,
+    "description": "Office network configuration and troubleshooting service",
+    "unitPrice": 200.00,
+    "amount": 200.00
+  }
+]
